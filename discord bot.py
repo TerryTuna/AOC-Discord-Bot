@@ -248,5 +248,5 @@ async def delete_all_profiles(ctx):
 
 
 
-# Run the bot
-bot.run('MTMwNjgxNzQ1NzM2ODk5Mzg4Mg.GWLT5f.O1DX2lY5Q7uQDZZhz7vr1e6bnoG3MWx5hYn0pw')
+# Run the bot put token below
+bot.run('')
